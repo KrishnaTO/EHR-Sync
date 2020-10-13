@@ -11,6 +11,7 @@ Uses:
 
 EMR API support:
 - OpenEMR
+- OSCAR EMR
 
 Planned EMR API support:
 - Meditech
